@@ -1,0 +1,16 @@
+.DS_Store
+*.o
+*.out
+*.class
+*.exe
+
+# Common local build outputs from these assignments
+Assignments/**/pipes
+Assignments/**/prodcons
+Assignments/**/addresses
+Assignments/**/virtual_memory_manager
+Assignments/**/fcfs
+Assignments/**/sjf
+Assignments/**/rr
+Assignments/**/priority
+Assignments/**/priority_rr
